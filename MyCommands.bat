@@ -1,4 +1,4 @@
-
+@echo off
 title Command Prompt
 color 0a
 :main
