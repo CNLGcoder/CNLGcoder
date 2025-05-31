@@ -1,4 +1,4 @@
-@echo off
+
 title Command Prompt
 color 0a
 :main
@@ -34,7 +34,7 @@ if %ans4%==txt (
 set /p ans5="what doe the txt say? "
 ping localhost -n %ans3% >nul
 echo %ans5%
-echo :)
+echo hahaha
 pause >nul
 goto main
 )
