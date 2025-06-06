@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CNLGcoder
-- 👀 I’m interested in code
+- 👀 I’m interested in code (Batch)
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: not
-- 😄 Pronouns: bruh, bro and nahh
-- ⚡ Fun fact: im pretty bad at coding
+- 😄 Pronouns: Bro
+- ⚡ Fun fact: I am CNLG
 
 <!---
 CNLGcoder/CNLGcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
